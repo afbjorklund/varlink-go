@@ -1,2 +1,5 @@
 /cmd/varlink-go-certification/orgvarlinkcertification/orgvarlinkcertification.go
 /.idea
+varlink-go.linux-amd64
+varlink-go.darwin-amd64
+varlink-go.windows-amd64.exe
